@@ -24,6 +24,6 @@ Demo Videosu
 
 Projenin çalışma mantığını ve test adımlarını içeren YouTube videosuna aşağıdaki linkten ulaşabilirsiniz:
 
-Video Linki: [BURAYA YOUTUBE LİNKİNİ YAPIŞTIR] 
+Video Linki: https://youtu.be/ZXej8-LIrLc
 
 NOT: Bu README dosyası projenin bir parçası olarak hazırlanmıştır.
